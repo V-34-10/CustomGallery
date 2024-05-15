@@ -1,6 +1,7 @@
 # CustomGallery
 
 This is a test assignment for the Junior Android Developer position at Agora Software.
+
 Test task:
 Implement a gallery that will display photos from Unsplash. The application must extract the resource in JSON format.
  
